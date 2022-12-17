@@ -1,6 +1,6 @@
 const form = document.querySelector('form');
 const result = document.querySelector('.result');
-const correctAnswes = ['B','B','A','A'];
+const correctAnswes = ['B','C','A','A'];
 
 let score = 0;
 let counter = 0;
